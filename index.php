@@ -1,8 +1,8 @@
 <pre>
 <?php
 
-print `ifconfig`
-print `date`
+print `ifconfig`;
+print `date`;
 
 ?>
 </pre>
